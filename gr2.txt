@@ -1,0 +1,5 @@
+S->b|C|cCB
+A->AB|eps
+B->ba|bE|b
+C->Ca|Bc|d
+E->Ea|Eb|Ea

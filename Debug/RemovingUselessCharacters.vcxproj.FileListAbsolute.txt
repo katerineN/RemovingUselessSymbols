@@ -1,0 +1,2 @@
+C:\Users\катя\source\repos\RemovingUselessCharacters\Debug\RemovingUselessCharacters.exe
+C:\Users\катя\source\repos\RemovingUselessCharacters\Debug\RemovingUselessCharacters.pdb

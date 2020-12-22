@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\катя\source\repos\RemovingUselessCharacters\Grammar.h(55,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\катя\source\repos\RemovingUselessCharacters\Grammar.h(106,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\катя\source\repos\RemovingUselessCharacters\Grammar.h(115,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\катя\source\repos\RemovingUselessCharacters\Grammar.h(125,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\катя\source\repos\RemovingUselessCharacters\Grammar.h(125,42): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\катя\source\repos\RemovingUselessCharacters\Grammar.h(150,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\катя\source\repos\RemovingUselessCharacters\Grammar.h(158,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\катя\source\repos\RemovingUselessCharacters\Grammar.h(171,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\катя\source\repos\RemovingUselessCharacters\Grammar.h(171,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\катя\source\repos\RemovingUselessCharacters\Grammar.h(190,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\катя\source\repos\RemovingUselessCharacters\Grammar.h(197,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\катя\source\repos\RemovingUselessCharacters\Grammar.h(222,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\катя\source\repos\RemovingUselessCharacters\Grammar.h(229,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\катя\source\repos\RemovingUselessCharacters\Grammar.h(264,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\катя\source\repos\RemovingUselessCharacters\Grammar.h(277,25): warning C4018: <: несоответствие типов со знаком и без знака
+  RemovingUselessCharacters.vcxproj -> C:\Users\катя\source\repos\RemovingUselessCharacters\Debug\RemovingUselessCharacters.exe
